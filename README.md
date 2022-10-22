@@ -5,8 +5,7 @@
 <h1 align="center"> Project Summary of FLIGHT-RESERVATION-SYSTEM</h1>
 
 ### 🗣 Table of Content🔥.
-- What is Database?
-![image](https://user-images.githubusercontent.com/73386961/197332070-e7ac1f81-5859-435d-95e1-cbaaceea2127.png)
+- ![image](https://user-images.githubusercontent.com/73386961/197332070-e7ac1f81-5859-435d-95e1-cbaaceea2127.png)
 
 -Database management
 ![image](https://user-images.githubusercontent.com/73386961/197332075-4c4c4b9b-30e9-4e3a-a974-4f40af639b6d.png)
